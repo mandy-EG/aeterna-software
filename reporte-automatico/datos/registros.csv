@@ -1,0 +1,101 @@
+id,fecha,sabor,tamaño,cantidad,valor,medio_de_pago,estado
+68,2026-10-20,Limón,Mediano,2,17000,Daviplata,Devuelta
+4,2026-10-03,Vainilla,Mediano,5,27500,Tarjeta,Completada
+94,2026-10-15,Vainilla,Pequeno,5,37500,Efectivo,Completada
+41,2026-10-10,Vainilla,Pequeno,3,16500,Tarjeta,Completada
+63,2026-10-03,Limón,Grande,3,25500,Tarjeta,Cancelada
+88,2026-10-12,Mora,Mediano,4,18000,Daviplata,Devuelta
+70,2026-10-15,Fresa,Grande,1,4500,Efectivo,Completada
+12,2026-10-11,Maracuyá,Mediano,5,27500,Tarjeta,Completada
+49,2026-10-04,Fresa,Grande,2,9000,Efectivo,Completada
+7,2026-10-11,Mora,Pequeno,4,30000,Nequi,Cancelada
+48,2026-10-05,Mora,Mediano,5,22500,Nequi,Cancelada
+18,2026-10-06,Fresa,Grande,1,8500,Efectivo,Completada
+53,2026-10-17,Fresa,Pequeno,5,32500,Efectivo,Devuelta
+64,2026-10-13,Maracuyá,Pequeno,4,30000,Nequi,Completada
+6,2026-10-07,Dulce de leche,Grande,5,42500,Tarjeta,Completada
+39,2026-10-26,Fresa,Grande,1,6500,Nequi,Completada
+56,2026-10-24,Mora,Grande,2,15000,Nequi,Completada
+67,2026-10-30,Vainilla,Mediano,3,19500,Efectivo,Devuelta
+96,2026-10-05,Fresa,Grande,1,,Tarjeta,Cancelada
+57,2026-10-07,Limón,Mediano,2,9000,Daviplata,Completada
+33,2026-10-27,Chocolate,Pequeno,2,17000,Tarjeta,Completada
+55,2026-10-06,Mora,Pequeno,4,18000,Tarjeta,Devuelta
+16,2026-10-22,Fresa,Mediano,5,32500,Efectivo,Devuelta
+43,2026-10-21,Vainilla,Mediano,2,17000,Efectivo,Devuelta
+9,2026-10-11,Maracuyá,Mediano,3,13500,Nequi,Completada
+46,2026-10-13,Fresa,Grande,1,8500,Daviplata,Completada
+1,2026-10-30,Mora,Pequeno,2,13000,Nequi,Completada
+75,2026-10-26,Fresa,Mediano,4,30000,Nequi,Devuelta
+20,2026-10-20,Dulce de leche,Grande,4,26000,Daviplata,Completada
+54,2026-10-23,Fresa,Grande,3,19500,Daviplata,Completada
+58,2026-10-09,Dulce de leche,Pequeno,3,19500,Nequi,Completada
+89,2026-10-23,Fresa,Grande,5,37500,Nequi,Completada
+32,2026-10-17,Mora,Grande,5,22500,Tarjeta,Completada
+47,2026-10-23,Fresa,Pequeno,5,37500,Tarjeta,Completada
+8,2026-10-02,Vainilla,Mediano,5,37500,Daviplata,Devuelta
+37,2026-10-02,Maracuyá,Pequeno,3,22500,Tarjeta,Completada
+59,2026-10-24,Fresa,Mediano,2,9000,Tarjeta,Completada
+13,2026-10-14,Mora,Pequeno,3,22500,Tarjeta,Completada
+19,2026-10-06,Chocolate,Mediano,2,11000,Nequi,Completada
+10,2026-10-21,Limón,Grande,1,6500,Daviplata,Cancelada
+11,2026-10-09,Dulce de leche,Grande,2,13000,Efectivo,Cancelada
+3,2026-10-24,Vainilla,Pequeno,2,11000,Efectivo,Cancelada
+44,2026-10-11,Maracuyá,Mediano,2,17000,Nequi,Completada
+61,2026-10-07,Dulce de leche,Pequeno,4,18000,Tarjeta,Completada
+95,2026-10-29,Vainilla,Pequeno,4,30000,Efectivo,Devuelta
+87,2026-10-02,Mora,Pequeno,3,16500,Daviplata,Completada
+66,2026-10-06,Dulce de leche,Grande,3,22500,Nequi,Cancelada
+78,2026-10-25,Fresa,Mediano,4,30000,Efectivo,Completada
+71,2026-10-10,Limón,Pequeno,2,17000,Tarjeta,Devuelta
+73,2026-10-06,Limón,Pequeno,2,9000,Efectivo,Cancelada
+98,23/13/2026,Limón,Pequeno,1,5500,Efectivo,Completada
+14,2026-10-20,Dulce de leche,Pequeno,5,42500,Daviplata,Cancelada
+86,2026-10-23,Limón,Grande,1,6500,Daviplata,Completada
+74,2026-10-25,Maracuyá,Grande,3,16500,Nequi,Completada
+76,2026-10-09,Limón,Grande,3,25500,Efectivo,Cancelada
+83,2026-10-28,Fresa,Mediano,1,7500,Nequi,Completada
+72,2026-10-22,Chocolate,Grande,4,34000,Efectivo,Completada
+99,2026-10-22,Chocolate,Pequeno,1,,Tarjeta,Cancelada
+24,2026-10-18,Maracuyá,Pequeno,2,9000,Tarjeta,Cancelada
+65,2026-10-14,Chocolate,Pequeno,2,13000,Nequi,Devuelta
+82,2026-10-18,Limón,Pequeno,3,16500,Tarjeta,Cancelada
+26,2026-10-09,Mora,Mediano,2,17000,Efectivo,Devuelta
+45,2026-10-08,Limón,Mediano,5,22500,Efectivo,Completada
+100,2026-10-22,Dulce de leche,Grande,1,mucho,Daviplata,Devuelta
+2,2026-10-30,Limón,Pequeno,2,9000,Nequi,Completada
+36,2026-10-27,Fresa,Grande,3,22500,Efectivo,Devuelta
+40,2026-10-26,Fresa,Pequeno,2,9000,Efectivo,Completada
+30,2026-10-20,Vainilla,Pequeno,2,17000,Daviplata,Completada
+35,2026-10-20,Fresa,Grande,3,19500,Daviplata,Completada
+51,2026-10-17,Mora,Mediano,5,42500,Daviplata,Completada
+5,2026-10-14,Fresa,Mediano,3,25500,Nequi,Completada
+21,2026-10-29,Fresa,Grande,5,32500,Efectivo,Completada
+77,2026-10-25,Fresa,Grande,3,16500,Daviplata,Completada
+84,2026-10-16,Mora,Mediano,3,25500,Efectivo,Completada
+25,2026-10-04,Mora,Pequeno,3,16500,Efectivo,Devuelta
+23,2026-10-08,Chocolate,Pequeno,5,42500,Tarjeta,Completada
+42,2026-10-31,Mora,Pequeno,4,22000,Nequi,Cancelada
+62,2026-10-20,Chocolate,Mediano,5,37500,Tarjeta,Cancelada
+27,2026-10-02,Mora,Mediano,1,6500,Daviplata,Completada
+29,2026-10-18,Dulce de leche,Pequeno,3,16500,Nequi,Cancelada
+38,2026-10-26,Fresa,Mediano,2,15000,Tarjeta,Completada
+34,2026-10-08,Dulce de leche,Pequeno,3,25500,Tarjeta,Completada
+92,2026-10-07,Fresa,Mediano,3,16500,Tarjeta,Completada
+52,2026-10-27,Fresa,Pequeno,5,37500,Daviplata,Cancelada
+91,2026-10-30,Maracuyá,Grande,5,27500,Tarjeta,Devuelta
+85,2026-10-02,Chocolate,Mediano,4,22000,Daviplata,Cancelada
+69,2026-10-28,Mora,Pequeno,4,30000,Efectivo,Cancelada
+80,2026-10-23,Fresa,Mediano,2,13000,Nequi,Completada
+81,2026-10-31,Vainilla,Grande,5,37500,Efectivo,Completada
+17,2026-10-14,Limón,Pequeno,2,17000,Tarjeta,Cancelada
+31,2026-10-22,Mora,Mediano,2,13000,Nequi,Completada
+79,2026-10-05,Limón,Mediano,3,22500,Efectivo,Completada
+50,2026-10-06,Fresa,Pequeno,2,13000,Efectivo,Completada
+22,2026-10-31,Limón,Mediano,3,22500,Tarjeta,Completada
+93,2026-10-05,Vainilla,Pequeno,1,5500,Daviplata,Completada
+97,2026-10-09,Limón,Pequeno,1,mucho,Tarjeta,Cancelada
+90,2026-10-21,Mora,Grande,1,8500,Daviplata,Completada
+28,2026-10-29,Maracuyá,Grande,2,17000,Nequi,Completada
+60,2026-10-28,Chocolate,Mediano,4,26000,Tarjeta,Completada
+15,2026-10-12,Mora,Mediano,3,19500,Tarjeta,Completada
