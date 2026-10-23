@@ -1,0 +1,3 @@
+automatizar reporte del mes sin errores con datos sucios), 
+para quién (Laura Restrepo, Gerente de operaciones), qué hace (lee CSV, genera reporte.md + grafica.html), 
+tecnologías (Python, csv, plotly)
